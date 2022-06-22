@@ -1,23 +1,17 @@
-### Hi there 👋
+### Hi, I'm Brian! 
 
-<!--
-**brianmay2014/brianmay2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a developer, musician, creator, and mentor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianmay2014)](https://github.com/anuraghazra/github-readme-stats)
- -->
- 
+
+- 👨‍💻 Check out my [portfolio]
+- 🔭 I’m currently working on building out Riff Raff
+<!-- - 🌱 I’m currently learning Django and React Native -->
+- 👯 I’m looking to collaborate on anything
+- 💬 Ask me about my guitar pedals
+- 📫 How to reach me: brianmay2014@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute
  
  
 ## Skills
@@ -44,3 +38,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/brianmay2014/brianmay2014">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianmay2014&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" alt="Brian's GitHub Stats" />
 </a>
+
+
+
+[portfolio]: https://brianmay.codes
