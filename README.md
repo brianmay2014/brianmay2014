@@ -6,14 +6,13 @@
 
 - 👨‍💻 Check out my [portfolio]
 - 🔭 I’m currently working on building out Riff Raff
-<!-- - 🌱 I’m currently learning Django and React Native -->
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my guitar pedals
 - 📫 How to reach me: brianmay2014@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute
- 
- 
+- <!-- - 🌱 I’m currently learning Django and React Native -->
+  
 ## Skills
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=7b95ad&color=141422)
