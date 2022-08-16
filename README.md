@@ -1,7 +1,7 @@
 # Hi, I'm Brian May!
 
 ## I'm a developer, musician, creator, and mentor.
-### There are few thinks I enjoy more than solving problems, but snowboarding and hiking aren't so bad either. Looking forward to use my creative side with my intellectual side, let's collaborate!
+### There are few things I enjoy more than solving problems, but snowboarding and hiking aren't so bad either. Looking forward to use my creative side with my intellectual side, let's collaborate!
 
 
 - 👨‍💻 Check out my [portfolio]
