@@ -18,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=7b95ad&color=141422)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=7b95ad&color=141422)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=7b95ad&color=141422)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=7b95ad&color=141422)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=7b95ad&color=141422)
 ![Redux](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=7b95ad&color=141422)
 ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=Python&logoColor=7b95ad&color=141422)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=Flask&logoColor=7b95ad&color=141422)
